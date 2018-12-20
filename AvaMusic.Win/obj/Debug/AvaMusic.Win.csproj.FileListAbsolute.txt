@@ -1,0 +1,17 @@
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\AvaMusic.Win.exe.config
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\AvaMusic.Win.exe
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\AvaMusic.Win.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.csprojAssemblyReference.cache
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.ArtistSearch.resources
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.Properties.Resources.resources
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.csproj.GenerateResource.cache
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.csproj.CoreCompileInputs.cache
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.exe
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\AvaMusic.Entities.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\ClassLibrary2.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\AvaMusic.DataAccess.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\AvaMusic.Entities.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\ClassLibrary2.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\bin\Debug\AvaMusic.DataAccess.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Win\obj\Debug\AvaMusic.Win.csproj.CopyComplete

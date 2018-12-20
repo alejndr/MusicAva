@@ -1,0 +1,11 @@
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\bin\Debug\AvaMusic.DataAccess.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\bin\Debug\AvaMusic.Entities.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\bin\Debug\AvaMusic.DataAccess.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\bin\Debug\AvaMusic.Entities.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\obj\Debug\AvaMusic.BussinessLogic.csprojAssemblyReference.cache
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\obj\Debug\AvaMusic.BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\obj\Debug\AvaMusic.BussinessLogic.csproj.CopyComplete
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

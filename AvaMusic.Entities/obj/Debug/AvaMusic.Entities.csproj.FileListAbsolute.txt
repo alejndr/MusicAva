@@ -1,0 +1,6 @@
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Entities\bin\Debug\AvaMusic.Entities.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Entities\bin\Debug\AvaMusic.Entities.pdb
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Entities\obj\Debug\AvaMusic.Entities.csprojAssemblyReference.cache
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Entities\obj\Debug\AvaMusic.Entities.csproj.CoreCompileInputs.cache
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Entities\obj\Debug\AvaMusic.Entities.dll
+C:\Users\i.la.maza.villalba\source\repos\AvaMusic\AvaMusic.Entities\obj\Debug\AvaMusic.Entities.pdb
